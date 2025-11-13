@@ -1,6 +1,6 @@
 ## Otávio Damasceno 💻
 
-**`web e mobile`**
+**`Web e mobile`**
 
 🎓 Estudante do curso **Técnico em Informática** no **IFRS** (Instituto Federal do Rio Grande do Sul).  
 🚀 Sempre buscando aprender novas ferramentas e desenvolver projetos cada vez mais completos!
@@ -63,6 +63,14 @@
     width="30px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
 ### 📊 Estatísticas
