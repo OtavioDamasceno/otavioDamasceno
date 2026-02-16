@@ -1,9 +1,11 @@
 ## Otávio Damasceno 💻
 
-**`Web e mobile`**
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 **Técnico em Informática** formado pelo **IFRS – Instituto Federal do Rio Grande do Sul**
 
-🎓 Estudante do curso **Técnico em Informática** no **IFRS** (Instituto Federal do Rio Grande do Sul).  
-🚀 Sempre buscando aprender novas ferramentas e desenvolver projetos cada vez mais completos!
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente foco em **construir aplicações completas**, aplicando boas práticas, arquitetura limpa e aprendizado contínuo.  
+Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos práticos.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ot%C3%A1vio-damasceno-88633935b/">
@@ -24,6 +26,24 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+    
+  <img  
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+
 <img 
     align="left" 
     alt="React"
@@ -57,17 +77,3 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
-### 📊 Estatísticas
-
-<img
-  align="left"
-  alt="GitHubStats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=otavioDamasceno&show_icons=true&theme=tokyonight"/>
-<img
-  align="left"
-  alt="Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioDamasceno&theme=tokyonight&layout=compact&custom_title=Linguagens"/>
