@@ -77,3 +77,5 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=otavioDamasceno&theme=transparent">
+
