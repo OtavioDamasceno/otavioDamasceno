@@ -78,5 +78,6 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
 />
 <br/>
 <br/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=otavioDamasceno&theme=transparent">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=otavioDamasceno&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=otavioDamasceno&show_icons=true&theme=dark">
 
