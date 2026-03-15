@@ -22,7 +22,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
@@ -30,7 +30,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
@@ -39,7 +39,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
@@ -48,7 +48,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -56,7 +56,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -64,7 +64,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="Flutter"
     title="Flutter" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
@@ -72,10 +72,11 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     align="left" 
     alt="MongoDB"
     title="MongoDB" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+<br/>
 <br/>
 <br/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=otavioDamasceno&theme=dark">
