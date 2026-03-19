@@ -34,14 +34,22 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
-    
-  <img  
+<img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Javascript" 
+    title="Javascript"
     width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+
+ <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 
 <img 
@@ -68,6 +76,14 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
+  <img  
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    
 <img 
     align="left" 
     alt="MongoDB"
@@ -76,6 +92,34 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="postman" 
+    title="postman"
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    />
+    
+ <img
+    align="left" 
+    alt="Maven"
+    title="Maven" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+
+<img 
+     align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
+    
 <br/>
 <br/>
 <br/>
