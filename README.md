@@ -95,6 +95,15 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
 
 <img 
     align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+
+<img 
+    align="left" 
     alt="postman" 
     title="postman"
     width="40px" 
